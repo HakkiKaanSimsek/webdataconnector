@@ -1,0 +1,5 @@
+{"features":[{"type":"Feature","properties":{"opportunityValue":18000,"opportunityAge":15, "segment":"ideal"}},
+{"type":"Feature","properties":{"opportunityValue":25000,"opportunityAge":20, "segment":"ideal"}},
+{"type":"Feature","properties":{"opportunityValue":35000,"opportunityAge":120, "segment":"non-ideal"}},
+{"type":"Feature","properties":{"opportunityValue":85000,"opportunityAge":10, "segment":"ideal"}},
+{"type":"Feature","properties":{"opportunityValue":8500,"opportunityAge":90, "segment":"non-ideal"}}]}
