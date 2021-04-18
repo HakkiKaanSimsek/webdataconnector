@@ -26,7 +26,7 @@ myConnector.getSchema = function (schemaCallback) {
 };
 
 myConnector.getData = function(table, doneCallback) {
-    $.getJSON("https://raw.githubusercontent.com/HakkiKaanSimsek/datapane/master/q9.geojson", function(resp) {
+    $.getJSON("https://raw.githubusercontent.com/HakkiKaanSimsek/webdataconnector/master/example.geojson", function(resp) {
         var feat = resp.features,
             tableData = [];
 
